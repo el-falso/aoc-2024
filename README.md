@@ -5,7 +5,7 @@ Advent of Code 2024 solutions in Godot
 | Days | Part I | Part II |
 | ---- | ------ | ------- |
 | 1    | x      | x       |
-| 2    |        |         |
+| 2    | x      |         |
 | 3    |        |         |
 | 4    |        |         |
 | 5    |        |         |
